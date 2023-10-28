@@ -1,4 +1,4 @@
-# Configuring GIT
+Alt-Configuring GIT
 `git config --global user.name "user name"`
 `git config --global user.email "email@email.com"´
 `git config --list`
