@@ -50,5 +50,3 @@
 ## GIT Push
     -   ´git push origin main`  # here "origin" is the remote original copy and we can name it anything we prefer to name, and 
                                 # "main" is the name of branch 
-
-
