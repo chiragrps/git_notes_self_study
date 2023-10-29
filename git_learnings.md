@@ -46,7 +46,7 @@ GITHUB  ---> Clone to local repo ---> Do the changes ---> Stage the files   --->
 ### 2.3.3 Rename the branch to main
 `git branch -M "main"`
 ### 2.3.4 Checking out a particular branch
-`git checkot <---branch name--->`
+`git checkout <---branch name--->`
 ### 2.3.5 Create a new branch
 `git checkout -b <--new branch name-->`
 ### 2.3.6 Delete a branch 
@@ -84,7 +84,8 @@ or
 #### 2.3.9.3 Committed Changes (for many commits)
 `git reset <--commit hash--->`  
 > the commit hash can be derived from git log output, we can use first 7-8 digit of commit hash  
-or  
+or
+  
 `git reset  --hard <---commit hash--->`
 
 
