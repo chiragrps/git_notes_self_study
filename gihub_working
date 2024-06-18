@@ -1,0 +1,12 @@
+###############################
+GIT Hub:
+###############################
+
+to add a network diagram in GitHub:
+  - open github account 
+    - folder ---> select file or create file with simple click and play with extension ".draw.io.png"
+      - to edit this draw.io.png file
+        - click edit button on top right of the file
+          - select open with github.dev
+            - that will result in opening the whole parent folder in VS Code in Browser
+              - edit that whichever way you prefer to edit, as easy it could be.
