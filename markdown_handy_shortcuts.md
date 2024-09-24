@@ -1,3 +1,96 @@
+# shortest markdown wow
+
+## 1 for integrated url in text
+
+## 1.1 [this is linux config](https://linuxconfig.org/install-vmware-tools-on-ubuntu-22-04-jammy-jellyfish-linux)
+
+***
+
+__Pragraph Writing__
+for writing paragraph "do not do anything, just write and forget" e.g. this is just a sample repo for learning the basics of GitHub.
+
+***
+__writing text in many forms__
+This is being *created* on a **Friday**  ~~Saturday~~.
+
+<u> And this is my UNDERLINED Text</u>
+
+---
+**coding**
+This paragraph has some `variable` inline code.
+
+```ios
+show configuration 
+  dispaly set no more 
+```
+```javascript
+let num = Math.random();
+```
+___
+
+__Blockquote__
+Some paragraph with text.
+> blockquote text below the paragraph
+  >> Nested Blockquote
+---
+Ordered List
+
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+  2. Which is numbered
+
+-OR-
+
+Bullet list
+
+- first time
+- second time
+- third time
+  - indented
+    1. inner number
+
+-OR-
+* Bullet list
+  * Nested bullet
+    * Sub-nested bullet etc
+* Bullet list item 2
+
+-OR-
+
+- Bullet list
+  - Nested bullet
+    - Sub-nested bullet etc
+- Bullet list item 2
+
+
+---
+Task List
+- [ ] An uncompleted task
+- [x] A completed task
+    
+[this is the description](http://www.github.com)
+
+_____
+
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
+*******
+
+`headings can be written as following or refer the top list`
+# Learning-Github (heading 1)
+## sub heading (heading 2)
+### NEW Heading from a Collaborator (heading 3)
+
+this is picture with some random url 
+![alt text](http://picsum.photos/200/204)
+
+```
+__________
+
 # markdown handy shortcuts
 ## for headings 
 ## for bullet points:
